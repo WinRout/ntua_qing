@@ -2,7 +2,7 @@
 
 6th Semester Course in NTUA
 
-This course focuses on the fundamentals of Queueing Theory. \\
+This course focuses on the fundamentals of Queueing Theory. \n
 In this lab we simulated various Queuing Systems such as
 * M\M\1
 * M\M\k
