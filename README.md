@@ -8,7 +8,7 @@ In this lab we simulated various Queuing Systems such as
 * M\M\k
 * M\M\k\1
 * M\M\c\c 
-<br>
+
 And calculated their performance through basic properties:
 * Mean Number of Clients in the Queue
 * THroughput
